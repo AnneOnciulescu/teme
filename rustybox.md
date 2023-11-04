@@ -107,7 +107,6 @@ Comenzile suportate de aplicatia mini-busybox sunt:
       ```
 
  * **rmdir nume_directoare** - Sterge directoarele goale pasate ca argumente [doc](https://linux.die.net/man/1/rmdir). In caz de eroare se va intoarce va intoarce valoarea -60 (valoarea 196 va fi afisata in terminal)
-     * -s, --symbolic creeaza un link simbolic in locul unui hard link
      <br>
      
      *Exemplu*
